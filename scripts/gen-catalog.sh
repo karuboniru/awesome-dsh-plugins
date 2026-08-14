@@ -116,6 +116,7 @@ EXTRA_REPOS = {
     'dsh-web-search-firecrawl': ('https://github.com/yangzhe1003/dsh-web-search-firecrawl', 'Firecrawl 搜索提供方', 'data'),
     'dsh-claude-move': ('https://github.com/PerryLink/dsh-claude-move', '迁移 Claude Code 会话', 'coding'),
     'dsh-TUI': ('https://github.com/ccch1mneyyy/dsh-TUI', 'Claude Code 风格全屏交互终端插件：像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚', 'coding'),
+    'dsh-approval-guardian': ('https://github.com/karuboniru/dsh-approval-guardian', '沙箱提权审批守护：一次性无工具评审 agent，结构化 allow/deny', 'agent'),
 }
 
 # 从最新 mainline-compat.md 读取兼容性判定
